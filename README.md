@@ -12,6 +12,6 @@ The project mainly has 3 packages
 3. controller - For dealing with web services.
 
 This project mainly follows *MVC pattern*. Kindly contribute in the progress of the project by submitting issue/pull
-request
+request. Licensed under **MIT License**
 
 ###### **Author - Vikalp Rusia**
